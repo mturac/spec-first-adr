@@ -21,7 +21,7 @@ The ordering is the whole point: **Spec lock → ADR per decision → CLAUDE_LOG
 Add the marketplace, then install:
 
 ```
-/plugin marketplace add havascxistanbul/spec-first-adr
+/plugin marketplace add mturac/spec-first-adr
 /plugin install spec-first-adr@spec-first-adr
 ```
 

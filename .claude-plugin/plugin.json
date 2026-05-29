@@ -5,8 +5,8 @@
   "author": {
     "name": "Mehmet Turac"
   },
-  "homepage": "https://github.com/havascxistanbul/spec-first-adr",
-  "repository": "https://github.com/havascxistanbul/spec-first-adr",
+  "homepage": "https://github.com/mturac/spec-first-adr",
+  "repository": "https://github.com/mturac/spec-first-adr",
   "license": "MIT",
   "keywords": [
     "spec-first",
